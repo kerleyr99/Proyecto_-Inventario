@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Datos/InventarioFinal.txt": [
+      {
+        "id": "7d83356c-14bf-4da2-aa43-8d44f6b41214",
+        "line": 2,
+        "version": 70,
+        "index": 1
+      }
+    ],
+    "Datos/Nuevosusuarios.txt": [
+      {
+        "id": "ca92341a-2b2c-4913-85c8-6378358e8a76",
+        "line": 1,
+        "version": 22,
+        "index": 0
+      }
+    ]
+  }
+}
